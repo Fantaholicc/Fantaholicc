@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="1500" height="1000" alt="image" src="https://github.com/user-attachments/assets/b32dcc2e-986a-4dca-ae17-6758cb09beb8" />
+
 
 <!--
 **Fantaholicc/Fantaholicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
